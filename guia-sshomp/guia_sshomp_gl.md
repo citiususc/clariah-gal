@@ -1,5 +1,4 @@
-## Guía de uso 
-### Como engadir recursos a  Social Sciences and Humanities Open Marketplace (SSHOM)
+## Como engadir recursos a  Social Sciences and Humanities Open Marketplace (SSHOM)
 
 ## Creación dunha conta e acceso: 
 Accederemos a https://marketplace.sshopencloud.eu/. Na esquina superior dereita, veremos a opción de rexistrarnos. A través do botón "Sign in", iniciaremos o proceso de creación da conta.  
@@ -166,8 +165,7 @@ publicados desde o apartado *My Account*.
 
 
 
-Bibliografía 
+## Bibliografía 
 SSH Open Marketplace. (s.f.). Metadata guidelines: Guidance for metadata fields. SSH Open 
-Marketplace. Disponible en: https://marketplace.sshopencloud.eu/contribute/metadata-
-guidelines#guidance-for-metadata-fields [consulta: abril de 2025]
+Marketplace. Dispoñible en: https://marketplace.sshopencloud.eu/contribute/metadata-guidelines#guidance-for-metadata-fields [consulta: abril de 2025]
 
