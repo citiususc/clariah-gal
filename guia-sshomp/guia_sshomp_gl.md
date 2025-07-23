@@ -1,5 +1,7 @@
 ## Como engadir recursos a  Social Sciences and Humanities Open Marketplace (SSHOM)
 
+Esta guía é unha traducción ao galego polo equipo de CLARIAH-GAL da guía elaborada pola Universidade das Palmas de Gran Canaria (ULPGC)
+
 ## Creación dunha conta e acceso: 
 Accederemos a https://marketplace.sshopencloud.eu/. Na esquina superior dereita, veremos a opción de rexistrarnos. A través do botón "Sign in", iniciaremos o proceso de creación da conta.  
  
@@ -25,8 +27,6 @@ Unha vez completado este paso, SSH Open Marketplace identificaranos como membros
 
 ![page_3_img_1.png](imaxes/image5.png)
 
-
-
  
 Neste punto, redirixiranos de volta á páxina principal de SSH Open Marketplace para completar o rexistro desde alí. Voltaremos aceptar a súa política de privacidade e remataremos o proceso de inscrición facendo clic en "Sign up".
  
@@ -40,46 +40,33 @@ suficiente con introducir nuestras credenciales institucionales.
 Só teremos que realizar este procedemento unha vez. A partir de agora, será suficiente con introducir as nosas credenciais institucionais.
 
 ## Paso a paso: cómo subir un recurso 
-Fai clic na opción correspondente ao tipo de recurso que desexas engadir ao SSH 
-Open Marketplace: Create tool or service, Create Training Material, Create Publication, 
-Create Dataset ou Create Workflow.
+Fai clic na opción correspondente ao tipo de recurso que desexas engadir ao SSH  Open Marketplace: Create tool or service, Create Training Material, Create Publication, Create Dataset ou Create Workflow.
 
-Neste caso, como imos engadir unha ferramenta web, seleccionaremos a primeira 
-opción: “Create tool or service”.
+Neste caso, como imos engadir unha ferramenta web, seleccionaremos a primeira opción: “Create tool or service”.
 
 ![page_3_img_1.png](imaxes/image8.png)
 
-Esta opción abrirá un formulario con múltiples apartados. Aqueles que son 
-obrigatorios están indicados cun asterisco (*)
+Esta opción abrirá un formulario con múltiples apartados. Aqueles que son obrigatorios están indicados cun asterisco (\*)
 
 ![page_3_img_1.png](imaxes/image9.png)
 
-1) **Label**: neste campo debe indicarse o título do recurso que se vai rexistrar. É 
-importante que sexa breve, claro e conciso para facilitar a súa identificación. 
-Recoméndase empregar o nome orixinal do recurso, coa ortografía correcta e 
-respectando o uso de maiúsculas e minúsculas.
+1) **Label**: neste campo debe indicarse o título do recurso que se vai rexistrar. É  importante que sexa breve, claro e conciso para facilitar a súa identificación. Recoméndase empregar o nome orixinal do recurso, coa ortografía correcta e respectando o uso de maiúsculas e minúsculas.
 
 ![page_3_img_1.png](imaxes/image10.png)
 
-2) **Version**: corresponde á versión específica do recurso que se está a referenciar 
-no SSH Open Marketplace, por exemplo: versión 1.0 ou versión 2.0.
+2) **Version**: corresponde á versión específica do recurso que se está a referenciar no SSH Open Marketplace, por exemplo: versión 1.0 ou versión 2.0.
 
 ![page_3_img_1.png](imaxes/image11.png)
 
-3) **Description**: aquí debe redactarse unha definición breve do recurso. O seu 
-obxectivo é espertar o interese do usuario e ofrecer unha idea xeral das súas 
-funcionalidades. Non debe ser demasiado extensa e recoméndase encarecidamente 
-escribila en inglés.
+3) **Description**: aquí debe redactarse unha definición breve do recurso. O seu obxectivo é espertar o interese do usuario e ofrecer unha idea xeral das súas funcionalidades. Non debe ser demasiado extensa e recoméndase encarecidamente escribila en inglés.
 
 ![page_3_img_1.png](imaxes/image12.png)
 
-4) **Accesible at**: neste apartado debe incluírse a ligazón á páxina web do recurso 
-ou ao seu identificador persistente, en formato URL. É fundamental asegurarse de 
-que a ligazón funcione correctamente.
+4) **Accesible at**: neste apartado debe incluírse a ligazón á páxina web do recurso ou ao seu identificador persistente, en formato URL. É fundamental asegurarse de que a ligazón funcione correctamente. Cando sexa posible, recoméndase o uso de identificadores persistentes como DOI ou Handle. Por exemplo, para artigos de investigación recoméndase a subida nos respositorios institucionais das universidades e para conxuntos de datos o uso de plataformas que ofrezcan estes identificadores como Zenodo ou Figshare. Non se recomenda o uso de plataformas propietarias como ResearchGate ou Arxiv. Para servizos web ou ferramentas con webs propias recoméndase o uso de sistemas como [w3id](https://w3id.org/), que permite a creación de identificadores persistentes para recursos dinámicos.
 
 ![page_3_img_1.png](imaxes/image13.png)
 
-5) **ID service identifier**: neste caso engadirase esta información se corresponde.
+5) **ID service identifier**: neste caso engadirase esta información se corresponde. Poderá ser un valor repetido do punto anterior.
 
 ![page_3_img_1.png](imaxes/image14.png)
 
