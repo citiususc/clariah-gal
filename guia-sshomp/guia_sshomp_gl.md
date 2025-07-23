@@ -1,6 +1,6 @@
-## Como engadir recursos a  Social Sciences and Humanities Open Marketplace (SSHOM)
+## Como engadir recursos a Social Sciences and Humanities Open Marketplace (SSHOM)
 
-Esta guía é unha traducción ao galego polo equipo de CLARIAH-GAL da guía elaborada pola Universidade das Palmas de Gran Canaria (ULPGC)
+Esta documentación foi traducida e adapatado polo equipo de [CLARIAH-GAL](https://www.clariah.gal/) a partir da guía elaborada pola Universidade das Palmas de Gran Canaria (ULPGC)
 
 ## Creación dunha conta e acceso: 
 Accederemos a https://marketplace.sshopencloud.eu/. Na esquina superior dereita, veremos a opción de rexistrarnos. A través do botón "Sign in", iniciaremos o proceso de creación da conta.  
